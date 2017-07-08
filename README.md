@@ -29,7 +29,7 @@ Tool size: 54.7M
 
 Operating environment: windows, MAC or Linux
 
-Interface language：English
+Interface language：Englis
 
 #Tool download
-www.appuploader.net/
+http://www.applicationloader.net/
