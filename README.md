@@ -2,6 +2,9 @@
 Application Uploader is a IOS development assistant, in windows, Linux or MAC system environment, help developers to quickly and easily generate IOS development certificate, does not need the keys Application assistant, Uploader can upload screenshots and upload the IPA file to App Store, do not need the application launcher and MAC computer. IOS is an auxiliary tool for supporting developers.
 #software function
 
+![](http://www.applicationloader.net/blog/wp-content/uploads/2017/04/QQ%E5%9B%BE%E7%89%8720190719101638-1024x658.png)
+
+
 1、Create iOS certificate and configuration file
 
 Application Uploader Support for the creation of a variety of Apple certificate, and the creation process is very simple, simply enter the certificate name, create mail and other information to create a certificate
